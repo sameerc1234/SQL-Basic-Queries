@@ -1,2 +1,3 @@
-# SQL-Practice-set1
-This is the database by using SQL to find the total payment according to each payment method
+# SQL-Practice-set
+Structured query language (SQL) is a programming language for storing and processing information in a relational database. A relational database stores information in tabular form, with rows and columns representing different data attributes and the various relationships between the data values.
+Here are some set of basic sql queries,feel free to check it out
